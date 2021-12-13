@@ -1,4 +1,4 @@
- # LOG4  CVE-2021-44228 IOC
+ # LOG4J  CVE-2021-44228 IOC
 
 A newly discovered zero-day vulnerability in the widely used Java logging library Apache Log4j is easy to exploit and enables attackers to gain full control of affected servers.
 
