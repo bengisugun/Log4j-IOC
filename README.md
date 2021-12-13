@@ -3665,7 +3665,6 @@ Tracked as CVE-2021-44228, the vulnerability is classed as severe and allows una
 
 
 # Referance
-https://socradar.io/blog/
 https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/log4j.txt
-https://www.zdnet.com/article/security-warning-new-zero-day-in-the-log4j-java-library-is-already-being-exploited/
+
