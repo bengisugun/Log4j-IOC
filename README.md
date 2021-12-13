@@ -280,7 +280,7 @@ IOC list of newly discovered zero-day vulnerability in widely used Java log libr
 271.	77.78.33.78
 272.	553.087.738.225
 273.	692.661.75.75
-274.	001.248.832.956
+274.	1.248.832.956
 275.	167.99.88.151
 276.	167.99.44.32
 277.	167.99.36.245
@@ -1353,9 +1353,9 @@ IOC list of newly discovered zero-day vulnerability in widely used Java log libr
 1344.	62.76.41.46
 1345.	109.237.96.124
 1346.	134.209.24.42
-1347.	7.59.4.07
+1347.	7.59.4.7
 1348.	1.23.82.72
-1349.	2.33.66.07
+1349.	2.33.66.7
 1350.	2.2.82.64
 1351.	2.12.51.56
 1352.	3.95.29.25
@@ -3659,7 +3659,7 @@ IOC list of newly discovered zero-day vulnerability in widely used Java log libr
 2077.	ldap://45.155.205.233:12344/Basic/Command/Base64/
 2078.	ldap://x.x.x.x.c6pnncggjk7jk873c9e0cg3zzcoyyyyyn.interactsh.com/999
 2079.	ldap://x.x.x.x.interactsh.com/a
-2080.	:ldap://x.x.x.x.interactsh.com/
+
 
 
 # Referance
