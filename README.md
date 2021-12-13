@@ -1586,7 +1586,7 @@ Tracked as CVE-2021-44228, the vulnerability is classed as severe and allows una
 2.	ldap://193.3.19.159:53/c
 3.	ldap://8e37da3fcdba.bingsearchlib.com:39356/a
 4.	${lower:l}${lower:d}a${lower:p}://world443.log4j.bin${upper:a}ryedge.io:80/callback
-5.	http://134.209.163.248/callback/https-port-443-and-http-callback-scheme
+5.	http(:)//134.209.163.248/callback/https-port-443-and-http-callback-scheme
 6.	ldap://134.209.163.248:80/callback/ldap2
 7.	rmi://134.209.163.248:80/Z
 8.	ldap://19fc6578cbe2.bingsearchlib.com:39356/a
